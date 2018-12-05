@@ -3,7 +3,7 @@ var canvas;
 var shaderProgram;
 var vertexPositionBuffer;
 
-
+//Added line
 // Create a place to store vertex colors
 var vertexColorBuffer;
 var rotatedDegrees = 0.1;
